@@ -1,0 +1,10 @@
+## Template for local.properties
+## Copy this file to local.properties and fill in your values.
+## DO NOT commit local.properties to version control.
+
+# Location of the Android SDK (Gradle will auto-detect this in most cases)
+# sdk.dir=/path/to/your/Android/Sdk
+
+# Google Cloud Vision API Key (required for OCR functionality)
+# Get your key from: https://console.cloud.google.com/apis/credentials
+CLOUD_VISION_API_KEY=your_api_key_here

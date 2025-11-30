@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Clipboard body -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M30,28 L30,88 Q30,92 34,92 L74,92 Q78,92 78,88 L78,28 Q78,24 74,24 L34,24 Q30,24 30,28 Z" />
+
+    <!-- Clipboard clip -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M44,20 L44,16 Q44,14 46,14 L62,14 Q64,14 64,16 L64,20 L68,20 L68,28 L40,28 L40,20 Z" />
+
+    <!-- Clipboard clip hole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,16 L58,16 Q59,16 59,17 L59,22 Q59,23 58,23 L50,23 Q49,23 49,22 L49,17 Q49,16 50,16 Z" />
+
+    <!-- Clipboard paper area (cutout) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,32 L74,32 L74,88 L34,88 Z" />
+
+    <!-- Magnifying glass circle -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M54,38 m-16,0 a16,16 0 1,1 32,0 a16,16 0 1,1 -32,0"
+        android:strokeWidth="4"
+        android:strokeColor="#000000" />
+
+    <!-- Magnifying glass inner circle (cutout) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38 m-12,0 a12,12 0 1,1 24,0 a12,12 0 1,1 -24,0" />
+
+    <!-- Magnifying glass handle -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M66,50 L78,62 L74,66 L62,54 Z" />
+
+    <!-- Checkmark in magnifying glass -->
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="2.5"
+        android:strokeColor="#000000"
+        android:pathData="M47,38 L52,43 L61,34" />
+
+    <!-- Checklist item 1 checkbox -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M38,62 L46,62 L46,70 L38,70 Z" />
+
+    <!-- Checklist item 1 checkbox inner (cutout) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,64 L44,64 L44,68 L40,68 Z" />
+
+    <!-- Checklist item 1 checkmark -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M39,66 L42,69 L46,63"
+        android:strokeWidth="1.5"
+        android:strokeColor="#000000" />
+
+    <!-- Checklist item 1 line -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M50,64 L70,64 L70,68 L50,68 Z" />
+
+    <!-- Checklist item 2 checkbox -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M38,74 L46,74 L46,82 L38,82 Z" />
+
+    <!-- Checklist item 2 checkbox inner (cutout) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,76 L44,76 L44,80 L40,80 Z" />
+
+    <!-- Checklist item 2 checkmark -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M39,78 L42,81 L46,75"
+        android:strokeWidth="1.5"
+        android:strokeColor="#000000" />
+
+    <!-- Checklist item 2 line -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M50,76 L70,76 L70,80 L50,80 Z" />
+</vector>
